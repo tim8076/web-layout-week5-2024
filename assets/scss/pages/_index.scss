@@ -1,0 +1,6 @@
+.navSide {
+  &__link.active {
+    color: $primary;
+    border-left: 4px solid $primary;
+  }
+}
